@@ -1,1 +1,1 @@
-# NxN-Tic-Tac-Toe-using-Minimax-Alph-Beta
+# NxN-Tic-Tac-Toe-using-Minimax-Alph-Beta-Pruning
